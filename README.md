@@ -4,12 +4,14 @@
 
 ⏯️ - I was born in Ecuador, where sweet pineapples grow and you can dance salsa even on the street and everyone else would join you!
 
-⏯️ - When I was 16 years old, I moved to Spain with a relative and shortly after, at 17 I had to move out and start to live independently.
+⏯️ - When I was 16 years old, I moved to Spain. When I was 17 years old I started to live independently and achieved to become a EU citizen. 
 
-⏯️ - Since then, I moved to England when I was 26 and found in coding my passion after building my WordPress website... and the rest is history.
+⏯️ -In 2019, found in coding my passion after building my WordPress website... and the rest is history.
 
-⏯️ - Currently, I am based in the Netherlands and looking for a junior web developer role :)
+⏯️ - Currently, based in the Netherlands and looking for a junior web developer role focused on React, backend, mobile development :)
 
-You are welcome to send me a message on [LinkedIn](https://www.linkedin.com/in/karemortiz/), 
-and then we can arrange a nice conversation over a virtual coffee about helping your company, team to deliver and succeed with amazing applications! 
+See what Iam up to: [LinkedIn](https://www.linkedin.com/in/karemortiz/)
+Email me to arrange a virtual coffee to help you and your team to succeed with amazing applications : contact@karemortiz.com/ karem.ortiz@outlook.com
+
+<img src="https://github.com/Karem1986/Karem1986/blob/master/funnyCatGif.gif" width="50%"/>   
 
