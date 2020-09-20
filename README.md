@@ -10,8 +10,9 @@
 
 ⏯️ - Currently, based in the Netherlands and looking for a junior web developer role focused on React, backend, mobile development :)
 
-See what Iam up to: [LinkedIn](https://www.linkedin.com/in/karemortiz/)
-Email me to arrange a virtual coffee to help you and your team to succeed with amazing applications : contact@karemortiz.com/ karem.ortiz@outlook.com
+See what Iam up to on : [LinkedIn](https://www.linkedin.com/in/karemortiz/). 
+
+Email me📬:  contact@karemortiz.com/ karem.ortiz@outlook.com
 
 <img src="https://github.com/Karem1986/Karem1986/blob/master/funnyCatGif.gif" width="50%"/>   
 
