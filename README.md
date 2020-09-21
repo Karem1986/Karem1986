@@ -4,9 +4,9 @@
 
 ⏯️ - I was born in Ecuador, where sweet pineapples grow and you can dance salsa even on the street and everyone else would join you!
 
-⏯️ - When I was 16 years old, I moved to Spain. When I was 17 years old I started to live independently and achieved to become a EU citizen. 
+⏯️ - When I was 16 years old, I moved to Spain. At 17 years old I started to live independently and achieved to become a EU citizen. 
 
-⏯️ -In 2019, found in coding my passion after building my WordPress website... and the rest is history.
+⏯️ -In 2018, found in coding my passion after building my WordPress website... and the rest is history.
 
 ⏯️ - Currently, based in the Netherlands and looking for a junior web developer role focused on React, backend, mobile development :)
 
