@@ -14,5 +14,5 @@ Connect with me on : [LinkedIn](https://www.linkedin.com/in/karemortiz/).
 
 Email me📬:  contact@karemortiz.com/ karem.ortiz@outlook.com
 
-<img src="https://github.com/Karem1986/Karem1986/blob/master/funnyCatGif.gif" width="50%"/ position="center">   
+<img src="https://github.com/Karem1986/Karem1986/blob/master/funnyCatGif.gif" width="70%"/>   
 
