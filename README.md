@@ -1,6 +1,6 @@
-### This is a little bit more about me:
+### Github profile:
 
-![Me](https://github.com/Karem1986/karemortiz/blob/master/ezgif.com-gif-maker%20(1).gif)
+![Me](<https://github.com/Karem1986/karemortiz/blob/master/ezgif.com-gif-maker%20(1).gif>)
 
 ⏯️ - I was born in Ecuador, where sweet pineapples grow and you can dance salsa even on the street and everyone else would join you!
 
@@ -10,6 +10,5 @@
 
 ⏯️ - Currently, I am based in the Netherlands and looking for a junior web developer role :)
 
-You are welcome to send me a message on [LinkedIn](https://www.linkedin.com/in/karemortiz/), 
-and then we can arrange a nice conversation over a virtual coffee about helping your company, team to deliver and succeed with amazing applications! 
-
+You are welcome to send me a message on [LinkedIn](https://www.linkedin.com/in/karemortiz/),
+and then we can arrange a nice conversation over a virtual coffee about helping your company, team to deliver and succeed with amazing applications!
