@@ -2,13 +2,11 @@
 
 ![Me](<https://github.com/Karem1986/karemortiz/blob/master/ezgif.com-gif-maker%20(1).gif>)
 
-⏯️ - I was born in Ecuador, where sweet pineapples grow and you can dance salsa even on the street and everyone else would join you!
+- Born in Ecuador and raised up there till I moved to Spain with 16 years old.
+- At 17 years old I started to live independently and achieved to become a EU citizen (Spanish citizenship)
+- In 2018, found my passion: developing after building my first WordPress website, which led me to do a masters in Marketing.
+- Currently, based in the Netherlands, looking for react native developer-entry level or backend developer opportunties
 
-⏯️ - When I was 16 years old, I moved to Spain with a relative and shortly after, at 17 I had to move out and start to live independently.
+Online coffee? ==> send me a message : [LinkedIn](https://www.linkedin.com/in/karemortiz/)
 
-⏯️ - Since then, I moved to England when I was 26 and found in coding my passion after building my WordPress website... and the rest is history.
-
-⏯️ - Currently, I am based in the Netherlands and looking for a junior web developer role :)
-
-You are welcome to send me a message on [LinkedIn](https://www.linkedin.com/in/karemortiz/),
-and then we can arrange a nice conversation over a virtual coffee about helping your company, team to deliver and succeed with amazing applications!
+Email 📬 : karem.ortiz@outlook.com
