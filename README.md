@@ -1,4 +1,4 @@
-### Github profile:
+### About me:
 
 ![Me](<https://github.com/Karem1986/Karem1986/blob/master/ezgif.com-gif-maker%20(3).gif>)
 
