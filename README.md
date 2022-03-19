@@ -7,6 +7,6 @@
 - In 2018, found my passion: developing after building my first WordPress website, which led me to do a masters in Marketing.
 - Currently, based in the Netherlands, looking for react native developer-entry level or backend developer opportunties
 
-Online coffee? ==> send me a message : [LinkedIn](https://www.linkedin.com/in/karemortiz/)
+Coffee? ==> send me a message : [LinkedIn](https://www.linkedin.com/in/karemortiz/)
 
 Email 📬 : karem.ortiz@outlook.com
