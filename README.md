@@ -4,8 +4,8 @@
 
 - Born in Ecuador, lived in three countries: Spain, UK, and settled in the Netherlands.
 - Me in thre words: funny, enthusiast and optimist.
-- In 2018, found my passion: developing after building my first WordPress website.
+- Since 2018 coding after building my first WordPress website.
 
-Coffee? ==> send me a message : [LinkedIn](https://www.linkedin.com/in/karemortiz/)
+Coffee? ==> [LinkedIn](https://www.linkedin.com/in/karemortiz/)
 
 Email 📬 : karem.ortiz@outlook.com
