@@ -1,13 +1,13 @@
-### About me:
+About Me 🐾
 
-![Me](https://github.com/Karem1986/Karem1986/blob/master/meAndCats.jpg)
+🌍 From Ecuador to the World: Born in Ecuador, I've lived in Spain and the UK, and since 2019, I've been calling the Netherlands home.
 
-- Born in Ecuador, lived in three countries: Spain, UK, and settled in the Netherlands since 2019.
-- Vegan by heart: all animals deserve to live.
-- Why am I vegan?
-- THIS IS WHY---> Earthlings movie with Joaquin Phoenix, a great documental. 
-- Since 2018 started programming since building my Travel blog with WordPress.
+🌱 A Passionate Vegan: I believe every animal deserves a chance to live. If you're curious about why I'm vegan, I highly recommend watching Earthlings—an eye-opening documentary featuring Joaquin Phoenix.
 
-Fancy a chat? ==> [LinkedIn](https://www.linkedin.com/in/karemortiz/)
+💻 From Travel to Code: In 2018, I discovered my love for programming while creating my travel blog using WordPress and HTML. Since then, I've been diving into the world of code and loving every bit of the journey.
 
- 📬 : karemdigital@gmail.com
+💬 Let’s Connect!
+
+LinkedIn
+
+📬 karemdigital@gmail.com
